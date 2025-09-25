@@ -1,0 +1,10 @@
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path id="wavePath" d="M0,50 C50,30 150,70 250,50 C350,30 450,70 500,50"/>
+  </defs>
+  <text font-size="30" font-family="Verdana" fill="#4478e3">
+    <textPath href="#wavePath">
+      Rushikesh Pawar
+    </textPath>
+  </text>
+</svg>
